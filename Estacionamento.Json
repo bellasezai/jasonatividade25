@@ -1,0 +1,15 @@
+{
+  "Proprietario": "Jo\u00E3o",
+  "Veiculos": [
+    {
+      "Modelo": "Fusca",
+      "Placa": "ABC1234",
+      "Cor": "Azul"
+    },
+    {
+      "Modelo": "Civic",
+      "Placa": "XYZ5678",
+      "Cor": "Preto"
+    }
+  ]
+}
